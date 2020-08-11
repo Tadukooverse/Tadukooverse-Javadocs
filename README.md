@@ -2,8 +2,8 @@
 Welcome to the Tadukoovser Javadocs. Here you can find Javadocs for the various [projects of Tadukooverse](https://tadukooverse.github.io/projects.html).
 
 #### Table of Contents
-* [Tadukoo Util](#tadukoo-util]
-* [Tadukoo Engine/Launcher](#tadukoo-enginelauncher]
+* [Tadukoo Util](#tadukoo-util)
+* [Tadukoo Engine/Launcher](#tadukoo-enginelauncher)
 
 ## Tadukoo Util
 ***Note**: See [this page](https://tadukooverse.github.io/projects/TadukooUtil.html) for more info on Tadukoo Util.*
