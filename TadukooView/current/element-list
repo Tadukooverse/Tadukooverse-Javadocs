@@ -1,0 +1,14 @@
+com.github.tadukoo.view
+com.github.tadukoo.view.border
+com.github.tadukoo.view.components
+com.github.tadukoo.view.font
+com.github.tadukoo.view.form
+com.github.tadukoo.view.form.components
+com.github.tadukoo.view.form.field
+com.github.tadukoo.view.form.field.number
+com.github.tadukoo.view.lookandfeel
+com.github.tadukoo.view.lookandfeel.componentui
+com.github.tadukoo.view.lookandfeel.paintui
+com.github.tadukoo.view.paint
+com.github.tadukoo.view.paint.gradient
+com.github.tadukoo.view.shapes

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.tadukoo.annotation"},{"l":"com.github.tadukoo.annotation.process"},{"l":"com.github.tadukoo.annotation.processor"}];updateSearchResults();
