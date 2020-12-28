@@ -1,5 +1,10 @@
 com.github.tadukoo.util
 com.github.tadukoo.util.event
+com.github.tadukoo.util.functional
+com.github.tadukoo.util.functional.consumer
+com.github.tadukoo.util.functional.function
+com.github.tadukoo.util.functional.predicate
+com.github.tadukoo.util.functional.supplier
 com.github.tadukoo.util.logger
 com.github.tadukoo.util.map
 com.github.tadukoo.util.pojo
