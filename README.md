@@ -8,6 +8,7 @@ Welcome to the Tadukooverse Javadocs. Here you can find Javadocs for the various
 * [Tadukoo Parsing](#tadukoo-parsing)
 * [Tadukoo Util](#tadukoo-util)
 * [Tadukoo View](#tadukoo-view)
+* [Tadukoo Web Services](#tadukoo-web-services]
 
 ## Tadukoo Annotations
 ***Note**: See [this page](https://tadukooverse.github.io/projects/TadukooAnnotations.html) for more info on Tadukoo Annotations*
@@ -50,3 +51,10 @@ Tadukoo Util is a collection of utilities for use in general projects.
 Tadukoo View is a collection of view utilities.
 
 [Click here for the latest docs for Tadukoo View](/TadukooView/current/index.html).
+
+## Tadukoo Web Services
+***Note**: See [this page](https://tadukooverse.github.io/projects/TadukooWebServices.html) for more info on Tadukoo Web Services.*
+
+Tadukoo Web Services is a collection of libraries for interacting with web services.
+
+[Click here for the latest docs for Tadukoo Web Services](/TadukooWebServices/current/index.html).
