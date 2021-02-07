@@ -31,6 +31,13 @@ Tadukoo Engine/Launcher is a program that handles dependencies for programs that
 
 [Click here for the latest docs for Tadukoo Engine/Launcher](/TadukooEngine/current/index.html)
 
+## Tadukoo GitHub
+***Note**: See [this page](https://tadukooverse.github.io/projects/TadukooGitHub.html) for more info on Tadukoo GitHub*
+
+Tadukoo GitHub is a collection of libraries for interacting with GitHub's web services.
+
+[Click here for the latest docs for Tadukoo GitHub](/TadukooGitHub/current/index.html)
+
 ## Tadukoo Parsing
 ***Note**: See [this page](https://tadukooverse.github.io/projects/TadukooParsing.html) for more info on Tadukoo Parsing.*
 
