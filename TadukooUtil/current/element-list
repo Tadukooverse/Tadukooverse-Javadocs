@@ -1,4 +1,5 @@
 com.github.tadukoo.util
+com.github.tadukoo.util.dictionary
 com.github.tadukoo.util.event
 com.github.tadukoo.util.functional
 com.github.tadukoo.util.functional.consumer
