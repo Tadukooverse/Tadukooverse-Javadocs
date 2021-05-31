@@ -8,7 +8,7 @@ Welcome to the Tadukooverse Javadocs. Here you can find Javadocs for the various
 * [Tadukoo Parsing](#tadukoo-parsing)
 * [Tadukoo Util](#tadukoo-util)
 * [Tadukoo View](#tadukoo-view)
-* [Tadukoo Web Services](#tadukoo-web-services]
+* [Tadukoo Web Services](#tadukoo-web-services)
 
 ## Tadukoo Annotations
 ***Note**: See [this page](https://tadukooverse.github.io/projects/TadukooAnnotations.html) for more info on Tadukoo Annotations*
