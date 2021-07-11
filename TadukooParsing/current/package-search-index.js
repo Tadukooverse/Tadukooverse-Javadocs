@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.tadukoo.parsing"},{"l":"com.github.tadukoo.parsing.fileformat"},{"l":"com.github.tadukoo.parsing.java"},{"l":"com.github.tadukoo.parsing.json"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.tadukoo.parsing"},{"l":"com.github.tadukoo.parsing.fileformat"},{"l":"com.github.tadukoo.parsing.json"}];updateSearchResults();
