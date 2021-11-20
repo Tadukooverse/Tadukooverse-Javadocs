@@ -2,11 +2,15 @@ com.github.tadukoo.view
 com.github.tadukoo.view.border
 com.github.tadukoo.view.components
 com.github.tadukoo.view.components.interfaces
+com.github.tadukoo.view.components.interfaces.paint
+com.github.tadukoo.view.constants
 com.github.tadukoo.view.font
 com.github.tadukoo.view.form
 com.github.tadukoo.view.form.components
 com.github.tadukoo.view.form.field
 com.github.tadukoo.view.form.field.number
+com.github.tadukoo.view.form.main
+com.github.tadukoo.view.form.tabbed
 com.github.tadukoo.view.lookandfeel
 com.github.tadukoo.view.lookandfeel.componentui
 com.github.tadukoo.view.paint
