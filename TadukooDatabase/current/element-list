@@ -1,1 +1,9 @@
 com.github.tadukoo.database.mysql
+com.github.tadukoo.database.mysql.pojo
+com.github.tadukoo.database.mysql.syntax
+com.github.tadukoo.database.mysql.syntax.conditional
+com.github.tadukoo.database.mysql.syntax.reference
+com.github.tadukoo.database.mysql.syntax.statement
+com.github.tadukoo.database.mysql.transaction
+com.github.tadukoo.database.mysql.transaction.query
+com.github.tadukoo.database.mysql.transaction.update
